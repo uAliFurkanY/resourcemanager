@@ -4,7 +4,7 @@ Basic resource manager without external dependencies.
 
 ### Usage
 
-In your project folder, run `npm i resourcemanager`.
+In your project folder, run `npm i @alifurkan/resourcemanager`.
 
 `index.js`
 

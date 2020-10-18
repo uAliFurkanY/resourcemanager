@@ -1,6 +1,6 @@
 {
-  "name": "resourcemanager",
-  "version": "0.1.0",
+  "name": "@alifurkan/resourcemanager",
+  "version": "0.1.1",
   "description": "Basic resource manager without external dependencies",
   "main": "resources.js",
   "scripts": {
