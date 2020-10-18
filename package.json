@@ -1,0 +1,22 @@
+{
+  "name": "resourcemanager",
+  "version": "0.1.0",
+  "description": "Basic resource manager without external dependencies",
+  "main": "resources.js",
+  "scripts": {
+    "test": "echo Tests are WIP. && exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uAliFurkanY/resourcemanager.git"
+  },
+  "keywords": [
+    "resources"
+  ],
+  "author": "Ali Furkan YILDIZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uAliFurkanY/resourcemanager/issues"
+  },
+  "homepage": "https://github.com/uAliFurkanY/resourcemanager#readme"
+}
